@@ -30,4 +30,5 @@ Built as part of my Master’s thesis in *Data Science & Society*.
 
 --- 
 
-## Dataset available on request / Dataset not included (due to size/rights).
+## 📃 Dataset 
+Dataset available on request / Dataset not included (due to size/rights).
