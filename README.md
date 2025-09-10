@@ -27,3 +27,7 @@ Built as part of my Master’s thesis in *Data Science & Society*.
 1. Clone this repo:  
    ```bash
    git clone https://github.com/saraa-03/Credibility-Detector.git
+
+--- 
+
+## Dataset available on request / Dataset not included (due to size/rights).
